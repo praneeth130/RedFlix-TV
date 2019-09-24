@@ -1,22 +1,33 @@
 # RedFlix-TV
 
-RedFlix v2.0.1
-Released: 12/09/19
-Link: http://bit.ly/RedFlixTV
+RedFlix TV v2.1
+Released: 24/09/19
+Link: http://bit.ly/RedFlixTV_v2
 
 ----------------------------------------
 
 What's new?
 
-- Fixed A Very Crucial Memory Leak *sigh*
-- Minor UI Changes to Please Your Eyes, Of Course
-- Improved The Native Downloader 
-- Fixed White Screen Issue For Embed Server Links 
-- Fixed Some Of The Text Grayed Out/Not Visible On Some Devices In Login, Sign Up, & Comment Section
-- Squashed Out Tiny, & Ugly Bugs So They Don't Crawl Through The App
-- Took Various Performance Measures To Ensure Your RedFlix TV is Running At 100% 
-- Updated External Libraries
+[New] Google Chromecast Added.
+[New] Navigation Drawer Style Changed.
+[New] TV Channels Program Guide Added.
+[New] User Profile Deactivation Support Added.
+[New] User Profile Picture Support.
+[New] Cast & Crew Images Added.
+[New] Search Results Now Include Movies, Shows and TV Channels.
+[New] Shows Genre Added.
+[New] App Sharing Option Added.
+[New] Date of Release Added To All Movies/Shows.
+[New] TV Channels Category Added.
+[Update] UI Improvements.
+[Update] Movie Notifications Improved.
+[Update] Notification Icon.
+[Update] Player UI Updated.
+[Update] External Libraries Updated.
+[Fix] Full Screen Playback Is Now Sensor Based Landscape.
+[Fix] All Major and Minor Bugs Fixed.
+[Fix] Related Movies Appearing Issue Fixed.
+[Fix] Login, Sign-up Issue Fixed.
+[Fix] Large Comments Issue Fixed.
 
 ----------------------------------------
-
-Note: You may require a clean installation (uninstall the current one and install this version) if app doesn't install on top of your current one. Also please ensure you update the app to this version ASAP since the older versions will no longer work due to changes we've made to the backend. Thank you for your cooperation. 
