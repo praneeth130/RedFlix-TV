@@ -1,22 +1,19 @@
 {
-  "latestVersion": "2.2",
-  "latestVersionCode": "15",
-  "url": "http://bit.ly/RedFlixTV2_2",
+  "latestVersion": "2.3",
+  "latestVersionCode": "16",
+  "url": "https://bit.ly/RedFlixTV_v2-3",
   "releaseNotes": [
     "Please update the app in order to start enjoying the content!",
     " ",
     "Changelogs:",
     " ",
-    "[New] Added Thumbnails And Updated Episodes UI",
-    "[New] Added 'Report' Button In Movies/Shows So You Can Report Any Issue With The Stream",
+    "[New] Added 'Request' Menu So Users Can Now Request Us On Which Movie/Show They'd Like To Watch In App Directly",
+    "[New] Added 'Report' Button In TV Channels As Well So You Can Report Any Issue With The Stream",
     "[Update] UI Improvements",
-    "[Update] We've Moved To A Faster And Better Server Now",
-    "[Update] Notifications System Improved",
     "[Update] External Libraries Updated",
-    "[Fix] Fixed Hotstar Links Not Working",
-    "[Fix] Fixed App Not Opening On Notification Click",
-    "[Fix] All Major and Minor Bugs Fixed",
-    "[Fix] Fixed Player Issues",
-    "[Fix] Fixed Embed Links White Screen Issue"
+    "[Fix] Fixed Notifications Bug",
+    "[Fix] Fixed Crashes On Some Devices",
+    "[Fix] Fixed 'Reset Password' UI Overlapping Issues",
+    "[Fix] Fixed Several Tiny Bugs & Took Performance Measurements"
   ]
 }
