@@ -1,0 +1,19 @@
+{
+  "latestVersion": "1.1",
+  "latestVersionCode": "6",
+  "url": "https://bit.ly/RedFlixTV_v2-3",
+  "releaseNotes": [
+    "Please update the app in order to start enjoying the content!",
+    " ",
+    "Changelogs:",
+    " ",
+    "[New] Added 'Request' Menu So Users Can Now Request Us On Which Movie/Show They'd Like To Watch In App Directly",
+    "[New] Added 'Report' Button In TV Channels As Well So You Can Report Any Issue With The Stream",
+    "[Update] UI Improvements",
+    "[Update] External Libraries Updated",
+    "[Fix] Fixed Notifications Bug",
+    "[Fix] Fixed Crashes On Some Devices",
+    "[Fix] Fixed 'Reset Password' UI Overlapping Issues",
+    "[Fix] Fixed Several Tiny Bugs & Took Performance Measurements"
+  ]
+}
