@@ -1,8 +1,8 @@
 # RedFlix-TV
 
 RedFlix TV v2.1
-Released: 24/09/19
-Link: http://bit.ly/RedFlixTV_v2
+Released: 11/12/19
+Link: http://bit.ly/RedFlixTV_v2-5
 
 ----------------------------------------
 
@@ -29,5 +29,10 @@ What's new?
 [Fix] Related Movies Appearing Issue Fixed.
 [Fix] Login, Sign-up Issue Fixed.
 [Fix] Large Comments Issue Fixed.
+[New] Added 'Report' Dialog So You Can Report Any Issue With The Stream Instead Of Email
+[New] Added Option To Load Subtitles From Storage
+[New] Added 'Watch Trailer' To Movies/Show
+[Fix] Fixed Comments Bug
+[Fix] Fixed Several Tiny Bugs & Took Performance Measurements
 
 ----------------------------------------
