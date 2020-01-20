@@ -1,16 +1,17 @@
 {
-  "latestVersion": "2.5",
-  "latestVersionCode": "18",
-  "url": "http://bit.ly/RedFlixTV_2-5",
+  "latestVersion": "2.6",
+  "latestVersionCode": "20",
+  "url": "http://bit.ly/RedFlix_v2_6",
   "releaseNotes": [
-    "Please update the app in order to start enjoying the content!",
+    "(IMPORTANT) Please update the app in order to start enjoying the content!",
     " ",
     "Changelogs:",
     " ",
-    "[New] Added 'Report' Dialog So You Can Report Any Issue With The Stream Instead Of Email",
-    "[New] Added Option To Load Subtitles From Storage",
-    "[New] Added 'Watch Trailer' To Movies/Show",
-    "[Fix] Fixed Comments Bug",
-    "[Fix] Fixed Several Tiny Bugs & Took Performance Measurements"
+    "[Update] We've Moved To A Bigger & Better Server Now",
+    "[Fix] Fixed Live TV",
+    "[Fix] Fixed Memory Leaks",
+    "[Fix] Fixed Several Tiny Bugs & Took Performance Measurements",
+    " ",
+    "Note: If you can't update the app from current version, then please delete old apks present in /storage/RedFlix TV/Update/update.apk (all) first and then re-download the apk by clicking the update button"
   ]
 }
