@@ -1,14 +1,17 @@
 {
-  "latestVersion": "1.0",
-  "latestVersionCode": "1",
-  "url": "PUT_APK_URL_HERE",
+  "latestVersion": "2.1",
+  "latestVersionCode": "21",
+  "url": "https://bit.ly/3bC6myD",
   "releaseNotes": [
     "Please update the app in order to start enjoying the content!",
     " ",
     "Changelogs:",
     " ",
-    "[Update] Some Update",
-    "[Fix] Some Fixed Thing",
-    "[Fix] Some Fixed Bugs"
+    "- Minor Homescreen UI Changes",
+"- Fixed Login/SignUp Keyboard Issue",
+"- Changed Button Design With TV UI For Login/SignUP",
+"- Optimised In-App Updater & Fixed DeRegister To Avoid Potential Crashes",
+"- Minor UI Changes To All Detail Layouts",
+"- Bug Fixes & Performance Improvements"
   ]
 }
