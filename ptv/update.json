@@ -26,5 +26,10 @@
 "- Performance Improvements"
 "- Removed Unwanted Thread Loops in Code to Ensure There's No CPU Overload"
 "- Fixed All Bugs"
+"- Added Scrollview To Login/SognUp Screen For Smaller Device Dimensions"
+"- Added Null Check To Pause Video When Server/Download Is Pressed From ExoPlayer to Avoid Any Potential Crashes"
+"- Fixed Crash When Home Tab Is Pressed More Than Once"
+"- Changed Server Dialog UI and Added Background Transperency To Match New UI"
+"- Reduced Update Checking Delay Handler So It Shows Update Dialog Faster"
   ]
 }
