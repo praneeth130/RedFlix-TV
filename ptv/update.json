@@ -1,15 +1,30 @@
 {
-  "latestVersion": "1.2",
-  "latestVersionCode": "7",
-  "url": "https://bit.ly/ptv_12",
+  "latestVersion": "2.0",
+  "latestVersionCode": "20",
+  "url": "https://bit.ly/ptv_v20",
   "releaseNotes": [
     "Please update the app in order to start enjoying the content!",
     " ",
     "Changelogs:",
     " ",
-    "[Update] External Libraries Updated",
-    "[Fix] Fixed Notifications Bug",
-    "[Fix] Fixed Crashes On Some Devices",
-    "[Fix] Fixed Several Tiny Bugs & Took Performance Measurements"
+    "- Updated Homescreen UI"
+"- Updated Movies Details UI Completely"
+"- Updated Shows Details UI Completely"
+"- Updated Channels Details UI Completely"
+"- Added More Aspect Ratio Options In ExoPlayer"
+"- Added Text Indicator In ExoPlayer To Let User Know Which Aspect Ratio Is Shown"
+"- Fixed Landscape Crash"
+"- Updated Shows Browsing UI"
+"- Fixed Show Dates Incorrect Bug"
+"- Added & Fixed Download Support For Android 10 Devices"
+"- Fixed Movies Downloading From First Server Always"
+"- Fixed Memory Leak In Update Service"
+"- Fixed Download Crash When Paused From Notification"
+"- Fixed Chromecast Crash"
+"- Optimised Chromecast Support And Player"
+"- Optimised UI for Tablets and Fixed Crashes"
+"- Performance Improvements"
+"- Removed Unwanted Thread Loops in Code to Ensure There's No CPU Overload"
+"- Fixed All Bugs"
   ]
 }
